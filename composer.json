@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/laravel-shift/Laravel-Manager.git"
+            "url": "git@github.com/laravel-shift/Laravel-Manager.git"
         }
     ],
     "minimum-stability": "dev",
